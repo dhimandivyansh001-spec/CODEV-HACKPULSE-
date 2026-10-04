@@ -1,0 +1,6 @@
+{
+  "name": "SmartAccess Campus - Figma Prompt & Design System Studio",
+  "description": "Generate Figma AI prompts, customizable UI components, structured design tokens, and live interactive SaaS dashboard pages for SmartAccess Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
